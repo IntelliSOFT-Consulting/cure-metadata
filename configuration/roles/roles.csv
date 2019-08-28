@@ -1,0 +1,2 @@
+Uuid,Role name,Description,Inherited roles,Privileges
+b5095a12-c9a7-11e9-9881-33fe66805155,Clinician:Private,Role for private clinician access,Cliniclal-App,app:awaitingConsultation_private
