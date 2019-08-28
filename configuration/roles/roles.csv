@@ -1,2 +1,3 @@
 Uuid,Role name,Description,Inherited roles,Privileges
-b5095a12-c9a7-11e9-9881-33fe66805155,Clinician:Private,Role for private clinician access,Cliniclal-App,app:awaitingConsultation_private
+b5095a12-c9a7-11e9-9881-33fe66805155,Clinician:Private,Role for private clinician access,Clinical-App,app:awaitingConsultation_private
+bc122c54-c9ab-11e9-8214-6b2364bf5219,Tiage:Private,Role for private triage nurse,Clinical-App,app:all;app:triagePrivate;app:triageTakenPrivate;app:triagePrivate

@@ -1,2 +1,4 @@
 Uuid,Privilege name,Description
 a5f89b98-c81a-11e9-97d4-6308c9fc70f4,app:awaitingConsultation_private,Private queu for awaiting consultation
+459891f2-c9ac-11e9-add9-dfd9a135ffe9,app:triageTakenPrivate,Private queue for triage already taken patients
+57f8e388-c9ac-11e9-8365-f3c1373ce3b0,app:triagePrivate,Private queue for triage not taken patients
